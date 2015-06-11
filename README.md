@@ -7,5 +7,5 @@ $ git clone https://github.com/barteksc/ionic-android-cab.git
 $ cd cordova-nfc-sample
 $ npm install
 $ bower install
-$ ionic serve
+$ ionic run android
 ```
