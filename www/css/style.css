@@ -1,3 +1,7 @@
+.nfc-read-tab pre{
+    font-size: 16px;
+}
+
 .nfc-read-code {
     margin-top: 15px;
     border: 1px solid #c4c4c4;
